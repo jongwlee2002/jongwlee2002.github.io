@@ -29,12 +29,6 @@ author:
   bio: "Undergraduate student in Computer Science at Korea University<br>Undergraduate intern at the Generative Intelligence Lab"
   location: "Seoul, South Korea"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:disora@korea.ac.kr"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://jongwlee2002.github.io"
 
 
 # Publication Category - The following the list of publication categories and their headings
@@ -265,7 +259,6 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
@@ -274,7 +267,6 @@ whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
