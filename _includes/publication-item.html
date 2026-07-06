@@ -1,0 +1,9 @@
+{% assign publication = include.publication %}
+
+<div class="publication-item">
+  <p class="publication-title">
+    <a href="{{ publication.link }}">{{ publication.title }}</a>
+  </p>
+  <p class="publication-authors">{{ publication.authors }}</p>
+  <p class="publication-venue">{{ publication.venue }}, {{ publication.date | date: "%Y" }}</p>
+</div>

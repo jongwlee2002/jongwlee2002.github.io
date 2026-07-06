@@ -11,6 +11,8 @@ Hello, I am an undergraduate student in Computer Science at Korea University, an
 ## Publications
 
 {% assign featured_publications = site.publications | where: "featured", true | sort: "date" | reverse %}
-{% for post in featured_publications %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="publication-list">
+  {% for post in featured_publications %}
+    {% include publication-item.html publication=post %}
+  {% endfor %}
+</div>

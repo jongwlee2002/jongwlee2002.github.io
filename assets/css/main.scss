@@ -41,3 +41,33 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.publication-list {
+  margin-top: 0.4em;
+}
+
+.publication-item {
+  margin-bottom: 1em;
+}
+
+.publication-title {
+  margin: 0 0 0.2em;
+  font-size: 0.95em;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.publication-title a {
+  text-decoration: none;
+}
+
+.publication-title a:hover {
+  text-decoration: underline;
+}
+
+.publication-authors,
+.publication-venue {
+  margin: 0.1em 0;
+  font-size: 0.9em;
+  line-height: 1.35;
+}
