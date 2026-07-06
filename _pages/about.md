@@ -13,6 +13,6 @@ Hello, I am an undergraduate student in Computer Science at Korea University, an
 {% assign featured_publications = site.publications | where: "featured", true | sort: "date" | reverse %}
 <div class="publication-list">
   {% for post in featured_publications %}
-    {% include publication-item.html publication=post %}
+    {% include publication-item.html publication=post title_size="1.08em" %}
   {% endfor %}
 </div>
