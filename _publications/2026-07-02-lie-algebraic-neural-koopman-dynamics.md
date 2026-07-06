@@ -1,5 +1,5 @@
 ---
-title: "[C] Lie-Algebraic Neural Koopman Dynamics"
+title: "Lie-Algebraic Neural Koopman Dynamics"
 collection: publications
 category: conferences
 permalink: /publication/2026-07-02-lie-algebraic-neural-koopman-dynamics

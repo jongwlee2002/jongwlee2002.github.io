@@ -1,5 +1,5 @@
 ---
-title: "[C] Euler-Poincaré Neural Dynamics: A Geometric-Mechanics Framework for Scientific Simulation"
+title: "Euler-Poincaré Neural Dynamics: A Geometric-Mechanics Framework for Scientific Simulation"
 collection: publications
 category: conferences
 permalink: /publication/2026-07-01-euler-poincare-neural-dynamics
