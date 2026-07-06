@@ -7,5 +7,5 @@ date: 2026-07-02
 venue: "International Conference on Machine Learning (ICML)"
 authors: "Jongwon Lee, Jiwoong Kim, Jungwoo Park, <strong>Sungwoo Park<sup>^</sup></strong>"
 link: "https://icml.cc/virtual/2026/poster/63425"
+featured: true
 ---
-
