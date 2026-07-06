@@ -1,9 +1,9 @@
 {% assign publication = include.publication %}
 
-<div class="publication-item">
-  <p class="publication-title">
-    <a href="{{ publication.link }}">{{ publication.title }}</a>
+<div class="publication-item" style="margin-bottom: 0.9em;">
+  <p class="publication-title" style="margin: 0 0 0.2em; font-size: 0.95em; line-height: 1.35;">
+    <a href="{{ publication.link }}" style="color: var(--global-text-color); border-bottom: 0; text-decoration: none; font-weight: 700;">{{ publication.title }}</a>
   </p>
-  <p class="publication-authors">{{ publication.authors }}</p>
-  <p class="publication-venue">{{ publication.venue }}, {{ publication.date | date: "%Y" }}</p>
+  <p class="publication-authors" style="margin: 0.1em 0; font-size: 0.95em; line-height: 1.35;">{{ publication.authors }}</p>
+  <p class="publication-venue" style="margin: 0.1em 0; font-size: 0.95em; line-height: 1.35;">{{ publication.venue }}, {{ publication.date | date: "%Y" }}</p>
 </div>
