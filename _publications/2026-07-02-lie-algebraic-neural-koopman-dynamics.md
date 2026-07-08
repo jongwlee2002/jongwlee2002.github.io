@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2026-07-02-lie-algebraic-neural-koopman-dynamics
 date: 2026-07-02
 venue: "International Conference on Machine Learning (ICML)"
-authors: "Jongwon Lee, Jiwoong Kim, Jungwoo Park, Sungwoo Park<sup>^</sup>"
+authors: "Jongwon Lee, Jiwoong Kim, Jungwoo Park, Sungwoo Park"
 link: "https://icml.cc/virtual/2026/poster/63425"
 featured: true
 ---
